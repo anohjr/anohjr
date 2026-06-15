@@ -1,7 +1,7 @@
 Hi, I'm Naomi
 
-> Product Engineer — I own features end to end, from idea to production.<br>After a career change into software engineering, I grew from frontend into delivering complete products: UI/UX, architecture, infrastructure, databases, backend, and frontend.<br><br>
-> Currently working on SaaS solutions for the publishing industry, including royalty calculations, payment file generation, financial reporting, large-scale data imports, analytics dashboards, and cloud infrastructure.<br>I also build third-party integrations with accounting tools (Cegid, Sage, Pennylane), book industry partners (Interforum), Google Sheets, and SFTP-based serverless workflows. <br><br>
+> Product Engineer — I own features end to end, from idea to production.<br>After a career change into software engineering, I grew from frontend into delivering complete products: UI/UX, architecture, cloud infrastructure, databases, backend, and frontend.<br><br>
+> Currently working on B2B SaaS solutions for the publishing industry, including royalty management, payment workflows, financial reporting, large-scale data imports, analytics dashboards, and third-party integrations.<br>I also connect our platform with accounting software (Cegid, Sage, Pennylane), industry partners, Google Sheets, and serverless SFTP workflows.<br><br>
 >(๑•᎑•๑)
 
 [<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/anohjr/anohjr/main/.github/output/metrics.classic.svg">](#)
