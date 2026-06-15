@@ -1,6 +1,8 @@
-> Product Engineer — I own features end to end, from idea to production. After a career change into software engineering, I grew from frontend into building complete products: UI/UX, architecture, infrastructure, databases, backend, and frontend.
+> Product Engineer — I own features end to end, from idea to production. After a career change into software engineering, I grew from frontend into delivering complete products: UI/UX, architecture, infrastructure, databases, backend, and frontend.
 
-> Currently building SaaS solutions for the publishing industry, working on royalty calculations, payment file generation, financial reporting, large-scale data imports, analytics dashboards, and cloud infrastructure.
+> Currently working on SaaS solutions for the publishing industry — royalty calculations, payment file generation, financial reporting, large-scale data imports, analytics dashboards, and cloud infrastructure.
+
+> I build third-party integrations end to end — accounting tools (Cegid, Sage, Pennylane), book industry partners (Interforum), Google Sheets, and SFTP-based serverless workflows.
 
 (๑•᎑•๑)
 
