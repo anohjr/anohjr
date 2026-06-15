@@ -10,4 +10,4 @@ Hi, I'm Naomi
 
 [<img align="right" width="390" alt="WakaTime coding activity stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
 
-[<img align="right" width="410" alt="Cat peeking over a laptop" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">](#)
+[<img align="right" width="390" alt="Cat peeking over a laptop" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">](#)
