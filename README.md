@@ -10,6 +10,6 @@ Hi, I'm Naomi
 
 [<img align="right" width="390" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
 
-<p align="center">
-  <img width="42%" alt="Cat" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">
+<p align="right" width="410">
+  <img width="100%" alt="Cat" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">
 </p>
