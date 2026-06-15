@@ -4,12 +4,10 @@ Hi, I'm Naomi
 > Currently working on B2B SaaS solutions for the publishing industry, including royalty management, payment workflows, financial reporting, large-scale data imports, analytics dashboards, and third-party integrations.<br>I also connect our platform with accounting software (Cegid, Sage, Pennylane), industry partners, Google Sheets, and serverless SFTP workflows.<br><br>
 >(๑•᎑•๑)
 
-[<img align="left" width="390" alt="" src="https://raw.githubusercontent.com/anohjr/anohjr/main/.github/output/metrics.classic.svg">](#)
+[<img align="left" width="390" alt="GitHub profile metrics: repositories, commits, languages and activity" src="https://raw.githubusercontent.com/anohjr/anohjr/main/.github/output/metrics.classic.svg">](#)
 
-[<img align="right" width="390" alt="" src="https://streak-stats.demolab.com?user=anohjr&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
+[<img align="right" width="390" alt="GitHub contribution streak stats" src="https://streak-stats.demolab.com?user=anohjr&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
 
-[<img align="right" width="390" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
+[<img align="right" width="390" alt="WakaTime coding activity stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
 
-<p align="right" width="410">
-  <img width="100%" alt="Cat" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">
-</p>
+[<img align="right" width="410" alt="Cat peeking over a laptop" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">](#)
