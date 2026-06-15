@@ -8,7 +8,7 @@ Hi, I'm Naomi
 
 [<img align="left" width="390" alt="GitHub contribution streak stats" src="https://streak-stats.demolab.com?user=anohjr&theme=tokyonight&hide_border=true&dates=777777&background=FF000000">](#)
 
-[<img align="right" width="390" alt="WakaTime coding activity stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
+[<img align="left" width="390" alt="WakaTime coding activity stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=anohjr&theme=tokyonight&hide_border=true&bg_color=FF000000&text_color=777777">](#)
 
 [<img align="right" width="390" alt="GitHub profile metrics: repositories, commits, languages and activity" src="https://raw.githubusercontent.com/anohjr/anohjr/main/.github/output/metrics.classic.svg">](#)
 
