@@ -10,5 +10,5 @@ Hi, I'm Naomi
 
 [<img align="right" width="390" alt="WakaTime coding activity stats" src=".github/output/metrics.plugin.wakatime.svg">](#)
 
-[<img align="right" width="378" alt="Cat peeking over a laptop" src="https://raw.githubusercontent.com/anohjr/anohjr/main/assets/cat.jpg">](#)
+[<img align="right" width="378" alt="Snack Animals jellyfish mascot" src="assets/snackanimals-laptop.png">](#)
 
