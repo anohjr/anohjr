@@ -1,6 +1,6 @@
 Hi, I'm Naomi
 
-> Product Engineer — I own features end to end, from idea to production.<br>After a career change into software engineering, I grew from frontend into delivering complete products: UI/UX, architecture, cloud infrastructure, databases, backend, and frontend.<br><br>
+> Product Engineer, I own features end to end, from idea to production.<br>After a career change into software engineering, I grew from frontend into delivering complete products: UI/UX, architecture, cloud infrastructure, databases, backend, and frontend.<br><br>
 > Currently working on B2B SaaS solutions for the publishing industry, including royalty management, payment workflows, contract generation and e-signatures, financial reporting, large-scale data imports, analytics dashboards, and third-party integrations.<br>I also connect our platform with accounting software (Cegid, Sage, Pennylane), industry partners, Google Sheets, and automated SFTP pipelines.<br><br>
 > (๑•᎑•๑)
 
